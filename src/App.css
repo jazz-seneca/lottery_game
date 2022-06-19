@@ -95,7 +95,9 @@ body{
 }
 
 .btn-dark.active{
-  box-shadow: 5px 10px #f6f1ff;
+  box-shadow: 5px 10px #3e3b42 !important;
+  color: black !important;
+  background-color: white !important;
 }
 @keyframes App-logo-spin {
   from {
